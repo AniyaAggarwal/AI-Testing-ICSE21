@@ -1,0 +1,1438 @@
+Age,Gender,Race,Region,Juvenile,Volunteer,ForeignNational,Federal,Method
+25,m,White,S,Yes,No,No,No,Electrocution
+29,m,White,S,No,No,No,No,Electrocution
+49,m,Latino,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+31,m,White,W,No,Yes,No,No,Lethal Injection
+26,m,White,S,Yes,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+31,m,White,W,No,Yes,No,No,Hanging
+32,m,White,S,No,No,No,No,Electrocution
+52,m,White,M,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+41,f,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Electrocution
+27,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,M,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Electrocution
+46,m,White,S,No,No,No,No,Lethal Injection
+37,m,Native American,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Electrocution
+39,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+43,m,Asian,W,No,No,Yes,No,Lethal Injection
+40,m,White,S,No,Yes,No,No,Lethal Injection
+29,m,White,S,Yes,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Black,M,No,No,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+50,m,Latino,S,No,No,No,No,Lethal Injection
+42,m,Latino,S,No,No,Yes,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+28,m,White,S,Yes,No,No,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,Yes,No,No,Lethal Injection
+38,f,White,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Native American,W,No,No,No,No,Lethal Injection
+23,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+61,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,M,No,No,No,No,Lethal Injection
+42,m,White,M,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+37,m,White,W,No,No,Yes,No,Gas Chamber
+29,m,Black,S,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Electrocution
+24,m,White,M,No,Yes,No,No,Electrocution
+37,m,Black,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Electrocution
+29,m,White,S,No,No,No,No,Lethal Injection
+27,m,Latino,S,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,W,No,Yes,No,No,Lethal Injection
+39,m,Native American,S,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Electrocution
+42,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+46,m,White,M,No,No,No,No,Lethal Injection
+31,m,White,S,No,Yes,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,M,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Electrocution
+43,m,White,W,No,No,No,No,Gas Chamber
+40,m,White,S,No,No,No,No,Lethal Injection
+25,m,Asian,W,No,Yes,Yes,No,Lethal Injection
+27,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,Yes,No,No,Lethal Injection
+32,m,White,S,Yes,No,No,No,Lethal Injection
+40,m,Latino,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Electrocution
+38,m,White,S,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,Yes,No,Electrocution
+48,m,White,M,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,M,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+61,m,White,S,No,No,No,No,Electrocution
+52,m,White,M,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Electrocution
+28,f,White,S,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,M,No,No,No,No,Lethal Injection
+62,m,Black,S,No,No,No,No,Electrocution
+48,m,White,W,No,No,No,No,Lethal Injection
+30,m,White,S,No,Yes,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Electrocution
+62,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+44,m,Latino,S,No,No,No,No,Lethal Injection
+31,m,Latino,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Electrocution
+31,m,White,S,No,No,No,No,Electrocution
+39,m,Black,M,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+25,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Electrocution
+50,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,N,No,Yes,No,No,Lethal Injection
+43,m,White,W,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+22,m,Native American,S,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Electrocution
+50,m,Black,W,No,No,No,No,Lethal Injection
+41,m,White,W,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+40,f,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+54,f,White,S,No,Yes,No,No,Electrocution
+35,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+25,m,White,S,No,No,No,No,Electrocution
+33,m,White,S,No,Yes,No,Yes,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Electrocution
+35,m,Black,S,No,Yes,No,No,Electrocution
+48,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,W,No,Yes,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Electrocution
+49,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+50,m,Latino,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Electrocution
+27,m,Black,S,No,No,No,No,Electrocution
+26,m,White,W,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,W,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+51,m,Native American,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Black,S,Yes,No,No,No,Lethal Injection
+55,m,White,N,No,Yes,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+54,m,White,S,No,No,No,No,Electrocution
+43,m,White,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Gas Chamber
+39,m,White,S,No,No,No,No,Electrocution
+43,m,White,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Electrocution
+43,m,Latino,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Electrocution
+32,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,Yes,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+64,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,M,No,No,No,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,M,No,No,No,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Electrocution
+39,m,Black,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+25,m,Black,S,Yes,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,M,No,Yes,No,No,Lethal Injection
+52,m,White,S,No,Yes,No,No,Lethal Injection
+49,m,White,S,No,Yes,No,No,Lethal Injection
+35,m,White,S,No,Yes,No,No,Lethal Injection
+56,m,White,W,No,Yes,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Electrocution
+34,m,Black,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Gas Chamber
+46,m,White,S,No,No,No,No,Electrocution
+46,m,White,S,No,No,No,No,Electrocution
+28,m,White,S,Yes,Yes,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Electrocution
+43,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+43,m,Black,M,No,No,No,No,Electrocution
+37,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,M,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+35,m,White,M,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Electrocution
+31,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,W,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+35,m,Black,M,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Latino,S,No,Yes,No,No,Lethal Injection
+36,m,Latino,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Latino,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Latino,W,No,No,No,No,Lethal Injection
+36,m,White,W,No,Yes,No,No,Firing Squad
+66,m,White,S,No,No,No,No,Electrocution
+48,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Electrocution
+42,m,White,S,No,No,No,No,Electrocution
+31,m,White,M,No,Yes,No,No,Lethal Injection
+42,m,White,W,No,No,No,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Hanging
+36,m,White,W,No,Yes,No,No,Firing Squad
+44,m,White,M,No,Yes,No,No,Lethal Injection
+47,m,White,M,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Gas Chamber
+38,m,White,W,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+52,m,Latino,S,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+23,m,White,S,Yes,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+27,m,Black,S,Yes,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+29,m,White,S,No,Yes,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+31,m,Native American,S,No,No,No,No,Lethal Injection
+52,m,Black,S,No,No,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,W,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Electrocution
+41,m,Latino,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,W,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Lethal Injection
+26,m,White,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Electrocution
+24,m,Black,S,Yes,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+57,m,Latino,W,No,No,No,No,Lethal Injection
+43,m,Latino,S,No,Yes,Yes,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+46,m,White,W,No,Yes,No,No,Gas Chamber
+30,m,Black,S,No,No,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Electrocution
+39,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,M,No,Yes,No,No,Electrocution
+36,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,M,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Electrocution
+41,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+53,m,White,W,No,No,No,No,Lethal Injection
+39,m,White,M,No,No,No,No,Lethal Injection
+44,m,Latino,W,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,W,No,Yes,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+31,m,Native American,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+33,m,Black,S,Yes,No,No,No,Lethal Injection
+55,m,White,M,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+46,f,White,S,No,Yes,No,No,Lethal Injection
+54,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,Yes,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+63,m,White,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+66,m,White,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Electrocution
+43,m,Asian,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Electrocution
+37,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+40,m,Black,M,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Electrocution
+52,f,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Electrocution
+37,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Electrocution
+49,m,White,S,No,No,No,No,Electrocution
+36,m,Black,S,No,No,No,No,Electrocution
+32,m,White,S,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,M,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+44,m,White,M,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Electrocution
+42,m,Black,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,W,No,No,No,No,Lethal Injection
+31,m,Latino,S,No,No,Yes,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+48,m,White,M,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+45,m,White,W,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+38,m,Other,S,No,No,Yes,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,M,No,No,No,No,Lethal Injection
+43,m,Black,M,No,No,No,No,Electrocution
+53,m,Black,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Asian,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+53,m,Other,S,No,No,Yes,No,Lethal Injection
+53,m,White,S,No,No,No,No,Electrocution
+48,m,White,M,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+39,m,Asian,S,No,No,Yes,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Electrocution
+31,m,Black,S,No,No,No,No,Electrocution
+39,m,Black,S,No,No,No,No,Lethal Injection
+44,m,White,M,No,No,No,No,Lethal Injection
+26,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+63,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+25,m,Latino,S,No,No,No,No,Lethal Injection
+27,m,Latino,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Electrocution
+42,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Electrocution
+26,m,White,S,No,No,No,No,Electrocution
+47,m,White,W,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Electrocution
+29,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,Yes,No,No,No,Electrocution
+59,m,Black,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Electrocution
+48,m,Black,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Electrocution
+33,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Latino,S,No,Yes,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Electrocution
+33,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,M,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+61,m,Black,M,No,No,No,No,Electrocution
+37,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,Yes,No,No,Lethal Injection
+54,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+50,m,Latino,S,No,Yes,No,No,Lethal Injection
+60,m,White,S,No,No,No,No,Lethal Injection
+61,f,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+52,m,Latino,S,No,No,No,No,Lethal Injection
+35,m,White,W,No,No,Yes,No,Lethal Injection
+29,m,Black,M,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,Yes,No,No,Lethal Injection
+31,m,White,W,No,No,No,No,Lethal Injection
+31,m,Latino,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,W,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Electrocution
+41,m,Black,S,No,No,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Electrocution
+29,m,White,M,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,M,No,Yes,No,No,Lethal Injection
+38,m,White,M,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+45,m,White,W,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+62,f,White,S,No,No,No,No,Lethal Injection
+38,m,White,M,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+50,m,White,W,No,No,No,No,Lethal Injection
+50,m,White,M,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+54,m,White,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,Yes,No,No,Lethal Injection
+42,m,White,W,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Electrocution
+46,m,White,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,Yes,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Electrocution
+28,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Electrocution
+32,m,White,S,No,Yes,No,No,Lethal Injection
+39,m,Latino,S,No,No,Yes,No,Electrocution
+37,m,Black,M,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Latino,S,No,No,Yes,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,Yes,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Electrocution
+54,m,Black,S,No,No,No,No,Electrocution
+38,m,White,S,No,No,No,No,Electrocution
+44,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Electrocution
+38,m,Latino,S,No,No,Yes,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,Yes,No,No,Lethal Injection
+40,m,Black,M,No,No,No,No,Lethal Injection
+41,m,White,M,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Electrocution
+47,m,Black,S,No,No,No,No,Electrocution
+35,m,Black,S,No,No,No,No,Lethal Injection
+54,f,White,S,No,No,No,No,Electrocution
+40,m,Native American,S,No,No,No,No,Electrocution
+35,m,White,M,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+26,m,White,S,No,Yes,No,No,Lethal Injection
+61,m,White,S,No,No,No,No,Lethal Injection
+45,m,Native American,W,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+62,m,White,M,No,Yes,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+41,m,White,M,No,Yes,No,No,Lethal Injection
+59,m,White,W,No,Yes,No,No,Lethal Injection
+35,m,White,S,No,Yes,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+53,m,Black,S,No,No,No,Yes,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Electrocution
+28,m,Black,S,No,No,No,No,Electrocution
+39,m,Black,S,No,No,No,No,Electrocution
+39,m,White,W,No,No,No,No,Gas Chamber
+39,m,White,S,No,Yes,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+45,m,Black,M,No,No,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,M,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Electrocution
+35,m,White,W,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,Yes,No,Electrocution
+33,m,Black,S,No,No,No,No,Electrocution
+54,m,Black,S,No,Yes,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Electrocution
+32,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Latino,W,No,No,Yes,No,Lethal Injection
+52,m,Latino,S,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Electrocution
+28,m,White,S,No,Yes,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Electrocution
+32,m,White,S,No,No,No,No,Electrocution
+34,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Electrocution
+41,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Electrocution
+64,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,Yes,No,Lethal Injection
+42,m,White,M,No,No,No,No,Lethal Injection
+38,m,White,S,Yes,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,W,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+61,m,Black,M,No,No,No,No,Lethal Injection
+26,m,White,S,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+52,m,Black,S,No,No,No,No,Electrocution
+44,m,White,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,W,No,Yes,Yes,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,M,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,M,No,No,No,No,Lethal Injection
+26,m,White,S,No,Yes,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Electrocution
+40,m,White,M,No,Yes,No,No,Lethal Injection
+24,m,White,S,Yes,No,No,No,Lethal Injection
+59,m,Latino,S,No,No,No,No,Lethal Injection
+56,m,White,W,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,Yes,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,W,No,No,No,No,Hanging
+39,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,S,No,Yes,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+24,m,Latino,S,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Electrocution
+59,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Black,M,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+40,m,Black,M,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+27,m,Latino,S,No,No,No,No,Lethal Injection
+34,m,Black,S,Yes,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Electrocution
+42,m,White,S,No,No,No,No,Electrocution
+26,m,Black,S,No,No,No,No,Gas Chamber
+44,m,Black,S,No,No,No,No,Electrocution
+27,m,Black,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Electrocution
+36,m,Black,S,No,No,No,No,Electrocution
+41,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Electrocution
+30,m,White,S,No,No,No,No,Lethal Injection
+30,m,Black,S,Yes,No,No,No,Electrocution
+33,m,White,S,No,No,No,No,Electrocution
+45,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,Yes,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Electrocution
+49,m,Black,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,Yes,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+41,m,Latino,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Native American,S,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+29,m,Latino,S,No,No,No,No,Lethal Injection
+25,m,Black,S,Yes,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Electrocution
+59,m,White,W,No,No,No,No,Lethal Injection
+53,m,White,M,No,No,No,No,Lethal Injection
+49,m,White,S,No,Yes,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+54,m,White,M,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Latino,S,No,No,No,Yes,Lethal Injection
+46,m,White,M,No,No,No,No,Lethal Injection
+30,m,Latino,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Gas Chamber
+46,m,Black,S,No,No,No,No,Electrocution
+40,m,Black,M,No,No,No,No,Lethal Injection
+48,m,Black,M,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Electrocution
+32,m,Black,S,No,No,No,No,Electrocution
+37,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Electrocution
+28,m,Black,S,No,No,No,No,Lethal Injection
+28,m,White,S,No,No,No,No,Electrocution
+51,m,White,W,No,Yes,No,No,Lethal Injection
+28,m,White,W,No,Yes,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Electrocution
+37,m,Black,S,No,Yes,No,No,Lethal Injection
+54,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,Yes,No,No,Electrocution
+36,m,White,S,No,No,No,No,Electrocution
+46,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Gas Chamber
+40,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+29,m,White,W,No,Yes,No,No,Lethal Injection
+41,m,White,S,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+30,m,Latino,S,No,No,Yes,No,Lethal Injection
+51,m,White,W,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,M,No,No,No,No,Lethal Injection
+61,m,White,S,No,No,Yes,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Electrocution
+33,m,White,M,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Latino,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,Yes,No,No,No,Lethal Injection
+29,m,Latino,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,W,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,M,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,M,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Electrocution
+33,m,White,M,No,No,No,No,Electrocution
+33,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Electrocution
+42,m,White,S,No,No,No,No,Electrocution
+47,m,White,S,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Electrocution
+29,m,Black,M,Yes,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Electrocution
+30,m,Black,S,No,No,No,No,Electrocution
+31,m,Black,S,No,No,No,No,Electrocution
+25,m,White,S,No,No,No,No,Electrocution
+34,m,White,S,No,No,No,No,Electrocution
+28,m,Black,S,No,No,No,No,Electrocution
+35,m,Black,S,No,No,No,No,Electrocution
+33,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Electrocution
+38,m,Black,S,No,No,No,No,Electrocution
+31,m,White,S,No,No,No,No,Electrocution
+34,m,White,S,No,No,No,No,Electrocution
+32,m,Black,M,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+55,m,Native American,M,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+35,m,Native American,S,No,No,No,No,Lethal Injection
+43,m,White,W,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,No,No,Lethal Injection
+40,m,Native American,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,Yes,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Electrocution
+41,m,Black,S,No,No,No,No,Electrocution
+44,m,White,M,No,No,No,No,Lethal Injection
+34,m,Black,W,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,M,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+27,m,Black,S,Yes,No,No,No,Lethal Injection
+52,m,White,N,No,Yes,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+36,m,Black,M,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Electrocution
+39,m,Black,S,No,No,No,No,Lethal Injection
+43,m,Latino,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+26,m,Latino,S,Yes,No,No,No,Lethal Injection
+45,m,Latino,W,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,Yes,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Electrocution
+34,m,Black,S,No,No,No,No,Electrocution
+30,m,Black,S,No,No,No,No,Electrocution
+34,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,W,No,Yes,No,No,Gas Chamber
+33,m,White,S,No,Yes,No,No,Electrocution
+33,m,Black,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+54,m,White,M,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+32,m,White,M,No,No,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+25,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+26,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Latino,S,No,No,No,No,Lethal Injection
+53,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,Yes,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+58,m,White,W,No,Yes,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,M,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Electrocution
+37,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,Yes,No,No,Lethal Injection
+45,m,White,S,No,Yes,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Electrocution
+42,m,White,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,Yes,No,No,Lethal Injection
+44,m,Black,M,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Electrocution
+40,m,Black,S,No,No,No,No,Lethal Injection
+48,m,Black,M,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Black,M,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Electrocution
+44,m,White,S,No,No,No,No,Lethal Injection
+61,m,White,S,No,No,No,No,Electrocution
+42,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Electrocution
+31,m,Black,S,No,No,No,No,Electrocution
+33,m,Black,S,No,No,No,No,Lethal Injection
+29,m,Latino,S,No,No,No,No,Lethal Injection
+49,m,White,W,No,No,No,No,Lethal Injection
+58,m,White,M,No,No,No,No,Lethal Injection
+54,m,White,S,No,No,No,No,Lethal Injection
+36,m,Latino,S,No,Yes,No,No,Lethal Injection
+25,m,Latino,S,No,No,Yes,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,Yes,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,M,No,No,No,No,Lethal Injection
+40,m,White,S,No,Yes,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+62,m,White,M,No,No,No,No,Lethal Injection
+54,m,White,S,No,Yes,No,No,Lethal Injection
+58,m,Native American,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,M,No,Yes,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+61,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,Yes,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Black,M,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,M,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+37,m,Asian,S,No,No,Yes,No,Lethal Injection
+35,m,White,W,No,Yes,No,No,Lethal Injection
+52,m,White,M,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+50,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,Yes,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Electrocution
+45,m,White,M,No,No,No,No,Lethal Injection
+63,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,M,No,Yes,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+40,m,White,M,No,Yes,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+74,m,White,S,No,No,No,No,Lethal Injection
+56,m,White,W,No,Yes,No,No,Lethal Injection
+57,m,White,S,No,Yes,No,No,Lethal Injection
+28,m,White,S,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+58,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,Yes,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Latino,S,No,Yes,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,M,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,Yes,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+52,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+30,m,Latino,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,Yes,No,No,Lethal Injection
+61,m,White,W,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,M,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+47,m,White,S,No,Yes,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,M,No,No,No,No,Lethal Injection
+38,m,Black,M,No,No,No,No,Lethal Injection
+39,m,White,S,No,Yes,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+45,m,White,N,No,Yes,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+51,m,Black,M,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+40,m,White,M,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+28,m,Latino,S,No,Yes,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,M,No,Yes,No,No,Lethal Injection
+29,m,Latino,S,No,No,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+52,m,Black,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,M,No,No,No,No,Lethal Injection
+40,f,Black,S,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+32,m,White,M,No,Yes,No,No,Lethal Injection
+54,m,White,M,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Latino,S,No,No,No,No,Lethal Injection
+48,m,Black,M,No,No,No,No,Lethal Injection
+38,m,Black,M,No,No,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,Yes,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+67,m,White,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+49,m,Black,M,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+51,m,Black,W,No,No,No,No,Lethal Injection
+77,m,White,S,No,No,No,No,Lethal Injection
+76,m,Native American,W,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+58,m,White,M,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,No,No,Lethal Injection
+43,m,White,M,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+27,m,Latino,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+61,m,Black,S,No,No,No,No,Lethal Injection
+47,m,Black,W,No,Yes,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+57,m,Black,M,No,No,No,No,Lethal Injection
+40,m,Latino,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Latino,S,No,No,No,No,Lethal Injection
+74,m,White,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,Yes,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,M,No,Yes,No,No,Lethal Injection
+39,m,White,S,No,Yes,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+27,m,White,S,No,No,No,No,Electrocution
+42,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+28,m,White,M,No,Yes,No,No,Lethal Injection
+49,m,White,W,No,Yes,No,No,Lethal Injection
+45,m,Latino,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+56,m,White,M,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+55,m,Latino,S,No,No,Yes,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+36,m,Latino,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,Yes,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+48,m,Latino,S,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+28,m,Latino,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,M,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+55,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,M,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+50,m,White,W,No,Yes,No,No,Lethal Injection
+37,m,White,M,No,Yes,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,M,No,No,No,No,Lethal Injection
+36,m,Latino,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+63,m,Black,S,No,No,No,No,Lethal Injection
+25,m,White,M,No,Yes,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,No,No,Lethal Injection
+30,m,White,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,Yes,No,No,Electrocution
+32,m,White,S,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+31,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+48,m,White,S,No,Yes,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Electrocution
+30,m,Black,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+26,m,Black,S,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,Yes,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,S,No,No,No,No,Lethal Injection
+45,m,Latino,S,No,Yes,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,M,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+27,m,Black,S,No,No,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+29,m,Latino,S,No,No,Yes,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+53,m,Black,M,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,Yes,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,Yes,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+53,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Latino,S,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+36,m,Latino,S,No,Yes,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,No,No,Lethal Injection
+65,m,White,S,No,No,No,No,Lethal Injection
+38,m,Latino,S,No,No,No,No,Lethal Injection
+35,m,Latino,S,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,M,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+39,m,White,M,No,No,No,No,Lethal Injection
+62,m,White,S,No,Yes,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+45,m,White,M,No,No,No,No,Lethal Injection
+36,m,Black,M,No,No,No,No,Lethal Injection
+33,m,White,M,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+28,m,Black,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,Yes,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+60,m,White,S,No,No,No,No,Electrocution
+30,m,Black,S,No,No,No,No,Lethal Injection
+34,m,Black,S,No,No,No,No,Lethal Injection
+53,m,Black,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,M,No,No,No,No,Lethal Injection
+49,m,White,M,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,Yes,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+60,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,M,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Electrocution
+34,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Black,M,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+40,m,Latino,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,M,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+37,m,Latino,S,No,No,No,No,Lethal Injection
+62,m,White,S,No,No,No,No,Lethal Injection
+72,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+54,m,Latino,S,No,No,No,No,Lethal Injection
+63,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,W,No,No,No,No,Firing Squad
+28,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,M,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+35,m,Latino,S,No,No,No,No,Lethal Injection
+50,m,Black,S,No,No,No,No,Lethal Injection
+52,m,White,W,No,No,No,No,Lethal Injection
+41,f,White,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,M,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+51,m,Black,S,No,No,No,No,Lethal Injection
+50,m,Native American,W,No,No,No,No,Lethal Injection
+63,m,White,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+52,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+59,m,White,M,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,M,No,No,No,No,Lethal Injection
+47,m,Black,W,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+49,m,Black,M,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,Yes,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+63,m,White,M,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+56,m,White,W,No,No,No,No,Lethal Injection
+42,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+32,m,White,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,W,No,No,No,No,Lethal Injection
+38,m,Latino,S,No,No,Yes,No,Lethal Injection
+52,m,White,W,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,No,No,Lethal Injection
+30,m,Black,S,No,No,No,No,Lethal Injection
+31,m,White,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+44,m,White,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+61,m,Latino,S,No,No,Yes,No,Lethal Injection
+38,m,White,S,No,Yes,No,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+66,m,Black,M,No,No,No,No,Lethal Injection
+65,m,White,S,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,No,No,Lethal Injection
+54,m,White,W,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+65,m,White,S,No,No,No,No,Lethal Injection
+63,m,White,W,No,No,No,No,Lethal Injection
+41,m,Latino,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,W,No,No,No,No,Lethal Injection
+46,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+61,m,Black,S,No,No,No,No,Lethal Injection
+47,m,Latino,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,M,No,No,No,No,Lethal Injection
+28,m,Black,S,No,Yes,No,No,Lethal Injection
+63,m,White,W,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+57,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+53,m,White,W,No,No,No,No,Lethal Injection
+34,m,White,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+49,m,Latino,W,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+54,m,Black,S,No,No,No,No,Lethal Injection
+51,m,White,W,No,No,No,No,Lethal Injection
+40,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+50,m,White,M,No,Yes,No,No,Lethal Injection
+24,m,White,S,No,No,No,No,Lethal Injection
+60,m,White,M,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+56,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,M,No,No,No,No,Lethal Injection
+41,m,Latino,S,No,No,No,No,Lethal Injection
+46,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Latino,S,No,No,No,No,Lethal Injection
+60,m,White,W,No,No,No,No,Lethal Injection
+56,m,Latino,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,Yes,No,No,Electrocution
+48,m,Black,S,No,No,No,No,Lethal Injection
+38,m,White,S,No,No,No,No,Lethal Injection
+48,m,White,M,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+50,m,Black,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+29,m,White,S,No,No,No,No,Lethal Injection
+46,m,White,M,No,No,No,No,Lethal Injection
+35,m,Black,S,No,No,No,No,Lethal Injection
+37,m,Black,S,No,No,No,No,Lethal Injection
+56,m,White,S,No,No,No,No,Lethal Injection
+44,m,Black,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+36,m,White,S,No,No,No,No,Lethal Injection
+39,m,Black,S,No,No,No,No,Lethal Injection
+52,f,Black,S,No,No,No,No,Lethal Injection
+36,m,Latino,S,No,No,No,No,Lethal Injection
+41,m,Black,S,No,No,No,No,Lethal Injection
+29,m,White,S,No,Yes,No,No,Lethal Injection
+55,m,White,S,No,No,No,No,Lethal Injection
+65,m,Black,S,No,No,No,No,Lethal Injection
+60,m,Black,S,No,No,No,No,Lethal Injection
+30,m,Latino,S,No,No,No,No,Lethal Injection
+61,m,White,M,No,No,No,No,Lethal Injection
+37,m,Latino,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+71,m,White,W,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+51,m,White,S,No,Yes,No,No,Lethal Injection
+43,m,White,W,No,No,No,No,Lethal Injection
+40,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+63,m,White,M,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+53,m,Black,S,No,No,No,No,Lethal Injection
+41,m,White,M,No,No,No,No,Lethal Injection
+48,m,White,S,No,No,No,No,Lethal Injection
+62,m,Black,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+53,m,White,M,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,Yes,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+56,m,Black,M,No,No,No,No,Lethal Injection
+59,f,White,S,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,Yes,No,Lethal Injection
+47,m,Black,M,No,No,No,No,Lethal Injection
+48,m,Black,S,No,No,No,No,Lethal Injection
+33,m,Black,S,No,No,No,No,Lethal Injection
+55,m,Black,S,No,No,No,No,Lethal Injection
+59,m,White,M,No,No,No,No,Lethal Injection
+29,m,Black,S,No,No,No,No,Lethal Injection
+49,m,White,S,No,No,No,No,Lethal Injection
+44,m,Latino,S,No,No,Yes,No,Lethal Injection
+39,m,Latino,S,No,No,No,No,Lethal Injection
+57,m,White,M,No,No,No,No,Lethal Injection
+47,m,White,S,No,No,No,No,Lethal Injection
+38,m,Black,S,No,No,No,No,Lethal Injection
+58,m,Black,S,No,No,No,No,Lethal Injection
+46,m,Black,M,No,No,No,No,Lethal Injection
+63,m,Black,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+54,m,White,M,No,No,No,No,Lethal Injection
+55,m,White,W,No,No,No,No,Lethal Injection
+43,m,White,M,No,No,No,No,Lethal Injection
+40,m,Black,M,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+38,f,Black,S,No,No,No,No,Lethal Injection
+32,m,Latino,S,No,No,Yes,No,Lethal Injection
+43,m,Black,S,No,No,No,No,Lethal Injection
+56,m,Black,M,No,No,No,No,Lethal Injection
+49,m,Black,S,No,No,No,No,Lethal Injection
+48,m,White,M,No,No,No,No,Lethal Injection
+66,m,White,S,No,No,No,No,Lethal Injection
+67,m,White,S,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+41,m,Latino,S,No,No,No,No,Lethal Injection
+54,m,Black,S,No,No,No,No,Lethal Injection
+57,m,Black,S,No,No,No,No,Lethal Injection
+52,m,White,S,No,No,No,No,Lethal Injection
+47,m,White,M,No,No,No,No,Lethal Injection
+46,m,Latino,S,No,No,No,No,Lethal Injection
+74,m,White,M,No,No,No,No,Lethal Injection
+42,m,White,S,No,No,No,No,Lethal Injection
+52,m,Black,M,No,No,No,No,Lethal Injection
+47,m,Black,M,No,No,No,No,Lethal Injection
+34,m,Latino,S,No,No,No,No,Lethal Injection
+32,m,Black,S,No,No,No,No,Lethal Injection
+45,m,Black,S,No,No,No,No,Lethal Injection
+55,m,White,M,No,No,No,No,Lethal Injection
+27,m,Latino,S,No,Yes,No,No,Lethal Injection
+50,m,Black,M,No,No,No,No,Lethal Injection
+47,f,White,S,No,No,No,No,Lethal Injection
+49,m,Latino,S,No,No,Yes,No,Lethal Injection
+35,m,Latino,S,No,No,No,No,Lethal Injection
+33,m,Latino,S,No,No,No,No,Lethal Injection
+59,m,White,S,No,No,No,No,Lethal Injection
+36,m,Black,S,No,No,No,No,Lethal Injection
+50,m,White,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+53,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+43,m,White,S,No,No,No,No,Lethal Injection
+35,m,White,S,No,No,No,No,Lethal Injection
+72,m,Black,S,No,No,No,No,Lethal Injection
+43,m,Latino,S,No,No,No,No,Lethal Injection
+45,m,White,S,No,No,No,No,Lethal Injection
+58,m,White,S,No,No,No,No,Lethal Injection
+33,m,White,S,No,No,No,No,Lethal Injection
+41,m,White,S,No,No,No,No,Lethal Injection
+38,m,Latino,S,No,No,No,No,Lethal Injection
+47,m,Black,S,No,No,No,No,Lethal Injection
+37,m,White,S,No,No,No,No,Lethal Injection
+66,m,White,M,No,No,No,No,Lethal Injection
+60,m,White,S,No,No,No,No,Lethal Injection

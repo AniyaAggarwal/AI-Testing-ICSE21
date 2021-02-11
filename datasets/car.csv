@@ -1,0 +1,487 @@
+Gender,Status,Children,Customer_Status,Car_Owner,Satisfaction,Business_Area,Action
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Female,S,0,Active,No,1,Service: Knowledge,Not Available
+Female,S,0,Active,No,1,Service: Knowledge,free Upgrade
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Female,M,2,Active,Yes,1,Product: Information,Not Available
+Female,M,2,Active,Yes,1,Product: Information,Not Available
+Male,S,1,Active,Yes,1,Product: Functioning,Not Available
+Male,S,1,Active,Yes,0,Service: Knowledge,Voucher
+Male,S,1,Active,Yes,1,Product: Functioning,Not Available
+Male,S,1,Active,Yes,0,Service: Knowledge,Voucher
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Female,M,0,Inactive,Yes,0,Product: Functioning,Voucher
+Male,M,0,Inactive,Yes,1,Product: Functioning,Not Available
+Female,M,0,Inactive,Yes,0,Product: Functioning,Voucher
+Male,M,0,Inactive,Yes,1,Product: Functioning,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Female,M,0,Inactive,No,0,Product: Pricing and Billing,On-demand pickup location
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,1,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,1,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,1,Active,Yes,0,Service: Knowledge,On-demand pickup location
+Female,M,1,Active,Yes,0,Service: Knowledge,On-demand pickup location
+Male,S,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,1,Inactive,Yes,0,Product: Information,On-demand pickup location
+Male,S,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,1,Inactive,Yes,0,Product: Information,On-demand pickup location
+Male,M,2,Inactive,No,0,Product: Functioning,Premium features
+Male,M,2,Active,No,0,Product: Functioning,Free Upgrade
+Male,S,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Inactive,No,0,Product: Functioning,Premium features
+Male,M,2,Active,No,0,Product: Functioning,Free Upgrade
+Male,S,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,D,0,Inactive,Yes,0,Product: Functioning,Free Upgrade
+Male,D,0,Inactive,Yes,0,Product: Functioning,Free Upgrade
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,2,Inactive,No,0,Service: Attitude,Free Upgrade
+Male,S,2,Inactive,No,0,Service: Attitude,Free Upgrade
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,No,0,Product: Functioning,Voucher
+Male,S,2,Inactive,No,1,Service: Attitude,Not Available
+Female,S,2,Inactive,No,0,Product: Functioning,Voucher
+Male,S,2,Inactive,No,1,Service: Attitude,Not Available
+Female,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Female,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Accessibility,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,0,Inactive,No,0,Product: Functioning,Voucher
+Female,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Female,S,0,Inactive,No,0,Product: Functioning,Voucher
+Female,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Product: Information,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Product: Information,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Product: Functioning,Not Available
+Male,S,0,Active,No,1,Product: Functioning,Not Available
+Female,M,2,Active,No,0,Product: Functioning,Voucher
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,0,Product: Functioning,Voucher
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Female,S,0,Active,No,0,Product: Functioning,Voucher
+Female,S,0,Active,No,0,Product: Functioning,Voucher
+Male,D,0,Active,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,D,0,Active,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,D,1,Active,No,0,Service: Accessibility,Free Upgrade
+Male,D,1,Active,No,1,Service: Accessibility,Not Available
+Male,D,1,Active,No,0,Service: Accessibility,Free Upgrade
+Male,D,1,Active,No,1,Service: Accessibility,Not Available
+Female,S,1,Inactive,Yes,0,Product: Functioning,Voucher
+Female,M,2,Active,Yes,0,Service: Attitude,Premium features
+Female,S,1,Inactive,Yes,0,Product: Functioning,Voucher
+Female,M,2,Active,Yes,0,Service: Attitude,Premium features
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Inactive,No,1,Product: Functioning,Not Available
+Female,M,2,Inactive,No,1,Product: Functioning,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,1,Service: Attitude,Not Available
+Male,M,1,Active,Yes,1,Service: Attitude,Not Available
+Female,M,2,Active,Yes,0,Service: Attitude,Premium features
+Female,M,2,Active,Yes,0,Service: Attitude,Premium features
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Female,S,2,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,M,1,Active,Yes,1,Service: Attitude,Not Available
+Male,M,1,Active,Yes,1,Service: Attitude,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,0,Product: Functioning,Premium features
+Male,S,0,Active,No,0,Product: Functioning,Premium features
+Female,S,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,1,Inactive,Yes,1,Service: Knowledge,Not Available
+Female,S,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,1,Inactive,Yes,1,Service: Knowledge,Not Available
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Female,S,1,Inactive,No,0,Service: Knowledge,Voucher
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Female,S,1,Inactive,No,0,Service: Knowledge,Voucher
+Female,M,2,Active,Yes,0,Product: Functioning,Free Upgrade
+Female,M,2,Active,Yes,0,Product: Functioning,Free Upgrade
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Female,S,0,Inactive,No,1,Product: Functioning,Not Available
+Male,S,0,Inactive,No,0,Product: Functioning,Premium features
+Male,S,0,Inactive,No,0,Product: Functioning,Premium features
+Female,S,2,Inactive,No,0,Service: Attitude,On-demand pickup location
+Female,S,2,Inactive,No,0,Service: Attitude,On-demand pickup location
+Female,M,0,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,S,2,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,M,1,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,M,1,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Female,S,2,Inactive,No,0,Service: Attitude,On-demand pickup location
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Female,S,2,Inactive,No,0,Service: Attitude,On-demand pickup location
+Male,M,0,Inactive,No,0,Service: Knowledge,Premium features
+Male,M,0,Inactive,No,0,Service: Knowledge,Premium features
+Male,S,1,Inactive,Yes,0,Product: Functioning,Free Upgrade
+Male,S,1,Inactive,Yes,0,Product: Functioning,Free Upgrade
+Male,M,0,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,M,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,M,0,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,M,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Female,D,1,Active,No,0,Product: Functioning,Free Upgrade
+Female,D,1,Active,No,0,Product: Functioning,Free Upgrade
+Female,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Female,S,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Female,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Female,S,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Male,S,1,Active,Yes,0,Service: Knowledge,On-demand pickup location
+Male,S,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,1,Active,Yes,0,Service: Knowledge,On-demand pickup location
+Male,S,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Male,M,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Female,M,2,Active,No,0,Service: Accessibility,Free Upgrade
+Female,M,2,Active,No,1,Service: Accessibility,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,0,Service: Accessibility,Free Upgrade
+Female,M,2,Active,No,1,Service: Accessibility,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,0,Service: Orders/Contracts,On-demand pickup location
+Female,M,2,Active,No,0,Service: Orders/Contracts,On-demand pickup location
+Female,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Female,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,0,Service: Knowledge,Voucher
+Female,M,2,Active,No,0,Service: Knowledge,Voucher
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Female,S,0,Active,No,1,Product: Pricing and Billing,Not Available
+Female,S,0,Active,Yes,0,Service: Attitude,Free Upgrade
+Female,S,0,Active,Yes,0,Service: Attitude,Free Upgrade
+Female,M,2,Active,No,0,Product: Functioning,On-demand pickup location
+Female,M,2,Active,No,0,Service: Orders/Contracts,On-demand pickup location
+Female,M,2,Active,No,0,Product: Functioning,On-demand pickup location
+Female,M,2,Active,No,0,Service: Orders/Contracts,On-demand pickup location
+Male,M,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,M,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,M,0,Inactive,Yes,0,Service: Knowledge,Voucher
+Female,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,0,Inactive,Yes,0,Service: Knowledge,Voucher
+Female,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Inactive,Yes,1,Product: Functioning,Not Available
+Female,M,2,Inactive,Yes,1,Product: Functioning,Not Available
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,S,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,S,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Female,S,0,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Inactive,No,1,Service: Accessibility,Not Available
+Male,M,0,Inactive,No,1,Service: Accessibility,Not Available
+Female,M,0,Inactive,No,1,Service: Accessibility,Not Available
+Male,M,0,Inactive,No,1,Service: Accessibility,Not Available
+Male,M,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,M,1,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,M,2,Active,No,1,Service: Accessibility,Not Available
+Male,M,2,Active,No,1,Service: Accessibility,Not Available
+Male,M,2,Active,No,1,Service: Accessibility,Not Available
+Male,M,2,Active,No,1,Service: Accessibility,Not Available
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Female,S,0,Active,No,0,Product: Functioning,Free Upgrade
+Female,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Female,S,0,Active,No,0,Product: Functioning,Free Upgrade
+Female,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Female,M,2,Active,No,1,Product: Functioning,Not Available
+Male,M,0,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,0,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,S,0,Active,Yes,0,Service: Attitude,Free Upgrade
+Female,S,0,Active,Yes,0,Service: Attitude,Free Upgrade
+Female,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Female,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Free Upgrade
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Inactive,No,0,Product: Functioning,On-demand pickup location
+Male,M,2,Inactive,No,1,Product: Functioning,Not Available
+Female,M,2,Inactive,No,0,Product: Functioning,On-demand pickup location
+Male,M,2,Inactive,No,1,Product: Functioning,Not Available
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Male,M,2,Active,No,1,Service: Orders/Contracts,Not Available
+Male,M,2,Active,No,1,Service: Orders/Contracts,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Inactive,No,0,Product: Availability/Variety/Size,Voucher
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Female,M,0,Inactive,No,0,Product: Availability/Variety/Size,Voucher
+Male,M,0,Inactive,Yes,0,Product: Pricing and Billing,Premium features
+Male,M,2,Active,Yes,1,Product: Functioning,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Product: Functioning,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,Yes,0,Product: Functioning,Voucher
+Female,M,1,Active,No,1,Product: Functioning,Not Available
+Female,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,Yes,0,Product: Functioning,Voucher
+Female,M,1,Active,No,1,Product: Functioning,Not Available
+Female,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,0,Service: Orders/Contracts,Voucher
+Male,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Male,M,1,Active,Yes,0,Service: Orders/Contracts,Voucher
+Male,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Female,M,1,Inactive,No,0,Product: Functioning,Voucher
+Male,M,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,1,Inactive,No,0,Service: Knowledge,Free Upgrade
+Female,M,1,Inactive,No,0,Product: Functioning,Voucher
+Male,M,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,1,Inactive,No,0,Service: Knowledge,Free Upgrade
+Male,M,1,Inactive,Yes,0,Product: Functioning,Voucher
+Male,M,1,Inactive,Yes,0,Product: Functioning,Voucher
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,0,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,No,1,Service: Orders/Contracts,Not Available
+Male,M,2,Active,No,1,Service: Orders/Contracts,Not Available
+Female,M,2,Active,No,0,Product: Functioning,On-demand pickup location
+Female,M,2,Active,No,0,Product: Functioning,On-demand pickup location
+Female,S,0,Inactive,No,0,Service: Knowledge,On-demand pickup location
+Female,S,0,Inactive,No,0,Service: Knowledge,On-demand pickup location
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Female,S,1,Active,Yes,1,Service: Knowledge,Not Available
+Female,S,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,S,2,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,2,Inactive,No,0,Product: Functioning,Voucher
+Male,S,2,Inactive,No,0,Service: Knowledge,Premium features
+Male,S,2,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,2,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,2,Inactive,No,0,Product: Functioning,Voucher
+Male,S,2,Inactive,No,0,Service: Knowledge,Premium features
+Male,S,2,Inactive,No,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,2,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Male,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,1,Service: Orders/Contracts,Not Available
+Male,S,0,Inactive,No,0,Product: Functioning,On-demand pickup location
+Female,S,0,Inactive,No,0,Product: Functioning,Premium features
+Male,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,S,0,Inactive,No,0,Product: Functioning,On-demand pickup location
+Female,S,0,Inactive,No,0,Product: Functioning,Premium features
+Male,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Male,S,2,Active,No,1,Product: Availability/Variety/Size,Not Available
+Male,S,2,Active,No,1,Product: Availability/Variety/Size,Not Available
+Male,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,0,Service: Orders/Contracts,Voucher
+Male,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Active,Yes,0,Service: Orders/Contracts,Voucher
+Female,M,0,Inactive,No,0,Product: Availability/Variety/Size,Voucher
+Female,S,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,0,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Inactive,No,0,Product: Availability/Variety/Size,Voucher
+Female,S,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,2,Active,No,1,Service: Knowledge,Not Available
+Female,S,0,Active,No,1,Service: Knowledge,Not Available
+Male,S,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,0,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,S,0,Inactive,No,1,Service: Orders/Contracts,Not Available
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,0,Inactive,Yes,0,Product: Functioning,On-demand pickup location
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Active,No,0,Service: Knowledge,Premium features
+Female,M,0,Active,No,0,Service: Knowledge,Premium features
+Male,S,1,Inactive,No,0,Product: Functioning,On-demand pickup location
+Female,S,1,Inactive,No,0,Product: Functioning,Voucher
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Male,S,1,Inactive,No,0,Product: Functioning,On-demand pickup location
+Female,S,1,Inactive,No,0,Product: Functioning,Voucher
+Male,S,1,Inactive,No,0,Product: Pricing and Billing,Free Upgrade
+Female,S,2,Inactive,No,1,Service: Knowledge,Not Available
+Female,S,2,Inactive,No,1,Service: Knowledge,Not Available
+Male,S,2,Active,No,1,Product: Availability/Variety/Size,Not Available
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,2,Active,No,1,Product: Availability/Variety/Size,Not Available
+Male,S,2,Active,No,1,Service: Knowledge,Not Available
+Male,S,1,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,1,Inactive,No,0,Product: Functioning,Voucher
+Female,S,1,Inactive,No,0,Service: Knowledge,Voucher
+Male,S,1,Inactive,No,0,Product: Functioning,Free Upgrade
+Male,S,1,Inactive,No,0,Product: Functioning,Voucher
+Female,S,1,Inactive,No,0,Service: Knowledge,Voucher
+Male,M,1,Inactive,Yes,0,Service: Knowledge,Premium features
+Male,M,1,Inactive,Yes,0,Service: Knowledge,Premium features
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Male,S,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Female,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Female,M,0,Active,Yes,1,Service: Knowledge,Not Available
+Male,M,2,Inactive,Yes,0,Service: Orders/Contracts,Not Available
+Male,M,2,Inactive,Yes,0,Service: Orders/Contracts,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,1,Inactive,No,1,Product: Functioning,Not Available
+Male,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Voucher
+Male,M,2,Inactive,Yes,0,Product: Information,Voucher
+Male,M,2,Inactive,Yes,0,Service: Orders/Contracts,Voucher
+Male,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Voucher
+Male,M,2,Inactive,Yes,0,Product: Information,Voucher
+Male,M,2,Inactive,Yes,0,Service: Orders/Contracts,Voucher
+Female,M,1,Active,Yes,1,Service: Knowledge,Voucher
+Female,M,1,Active,Yes,1,Service: Knowledge,Voucher
+Female,S,1,Inactive,No,0,Product: Functioning,Voucher
+Female,S,1,Inactive,No,0,Product: Functioning,Not Available
+Male,S,2,Active,Yes,0,Product: Functioning,Not Available
+Male,S,2,Active,Yes,0,Product: Functioning,Not Available
+Female,S,1,Inactive,Yes,0,Product: Functioning,Not Available
+Male,S,1,Inactive,Yes,1,Service: Knowledge,Not Available
+Female,S,1,Inactive,Yes,0,Product: Functioning,Not Available
+Male,S,1,Inactive,Yes,1,Service: Knowledge,Not Available
+Male,M,1,Inactive,No,0,Product: Functioning,Not Available
+Male,M,1,Inactive,No,0,Product: Functioning,Not Available
+Female,M,1,Inactive,No,0,Product: Functioning,Not Available
+Female,M,1,Inactive,No,0,Product: Functioning,Not Available
+Female,M,1,Active,No,1,Product: Functioning,Not Available
+Female,M,1,Active,No,1,Service: Accessibility,Not Available
+Female,M,1,Active,No,1,Product: Functioning,Not Available
+Female,M,1,Active,No,1,Service: Accessibility,Not Available
+Male,M,1,Active,No,1,Service: Attitude,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Service: Attitude,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,1,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,0,Active,No,1,Service: Knowledge,Not Available
+Male,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Not Available
+Male,M,2,Inactive,Yes,0,Product: Availability/Variety/Size,Not Available
+Male,M,1,Active,No,1,Service: Attitude,Not Available
+Male,M,1,Active,No,1,Service: Attitude,Not Available
